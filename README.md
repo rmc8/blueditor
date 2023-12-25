@@ -1,1 +1,1 @@
-# public-bluesky-blueditor
+# blueditor
